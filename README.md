@@ -4,7 +4,7 @@ This project focuses on analyzing the Zomato dataset, sourced from Kaggle, which
 
 ## Dataset
 
-The dataset used for this project is obtained from Kaggle and consists of comprehensive information about restaurants, including their location, cuisine type, cost for two people, user ratings, and more. The dataset provides a valuable resource for conducting in-depth analysis and extracting meaningful insights.I have also added the dataset in this github repository
+The dataset used for this project is obtained from Kaggle and consists of comprehensive information about restaurants, including their location, cuisine type, cost for two people, user ratings, and more. The dataset provides a valuable resource for conducting in-depth analysis and extracting meaningful insights.The link for the same is https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants
 
 ## Features
 
@@ -26,7 +26,7 @@ The dataset used for this project is obtained from Kaggle and consists of compre
 
 1. Ensure you have the necessary dependencies installed (Pandas, Matplotlib, scikit-learn).
 
-2. Download the Zomato dataset from Kaggle and place it in the project directory or you can download from my repo
+2. Download the Zomato dataset from Kaggle and place it in the project directory 
 
 3. Run the project's Python script, ensuring that the dataset's file path is correctly specified.
 
